@@ -11,9 +11,11 @@ Build Cluster
 --------------
 
 + node01
+  + jenkins: master
   + eth0: nat
   + eth1: 192.168.50.11
 + node02
+  + jenkins: slave
   + eth0: nat
   + eth1: 192.168.50.12
 
