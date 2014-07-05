@@ -22,7 +22,7 @@ su - jenkins -c "$SHELL -ex" <<'EOS'
   git checkout master
   git pull
 
-  rsync -avx /var/tmp/kemukins-jenkins-demo/.git /var/lib/jenkins
+  rsync -ax /var/tmp/kemukins-jenkins-demo/.git /var/lib/jenkins
   cd /var/lib/jenkins
 
   git status
