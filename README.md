@@ -3,6 +3,12 @@ Kemukins: Vagrantbox Demo
 
 Wakmae CI demo environment with Vagrant.
 
+Features
+--------
+
++ Deployment pipeline skeleton
++ Jenkins master/slave configuration
+
 System Requirements
 -------------------
 
@@ -18,7 +24,7 @@ $ cd kemukins-vagrantbox-demo
 $ make build
 ```
 
-access to [http://localhost:8080/](http://localhost:8080/)
+Access to [http://localhost:8080/](http://localhost:8080/)
 
 Build Cluster
 --------------
