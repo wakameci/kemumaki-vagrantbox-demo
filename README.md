@@ -9,14 +9,6 @@ System Requirements
 + [Vagrant](http://www.vagrantup.com/downloads.html)
 + [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
-Build Cluster
---------------
-
-| name   | eth0 | eth1          | jenkins |
-|:-------|:-----|:--------------|:--------|
-| node01 | nat  | 192.168.50.11 | master  |
-| node02 | nat  | 192.168.50.12 | slave   |
-
 Getting Started
 ---------------
 
@@ -27,6 +19,14 @@ $ make build
 ```
 
 access to [http://localhost:8080/](http://localhost:8080/)
+
+Build Cluster
+--------------
+
+| name   | eth0 | eth1          | jenkins |
+|:-------|:-----|:--------------|:--------|
+| node01 | nat  | 192.168.50.11 | master  |
+| node02 | nat  | 192.168.50.12 | slave   |
 
 Links
 -----
