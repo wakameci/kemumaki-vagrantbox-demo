@@ -1,6 +1,8 @@
 Kemukins: Vagrantbox Demo
 =========================
 
+Wakmae CI demo environment with Vagrant.
+
 System Requirements
 -------------------
 
