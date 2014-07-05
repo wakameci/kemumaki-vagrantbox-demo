@@ -6,6 +6,7 @@ Wakmae CI demo environment with Vagrant.
 Features
 --------
 
++ [wakame-vdc](https://github.com/axsh/wakame-vdc) rpmbuild job demo
 + Deployment pipeline skeleton
 + Jenkins master/slave configuration
 
