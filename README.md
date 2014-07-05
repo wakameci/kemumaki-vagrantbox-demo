@@ -10,14 +10,10 @@ System Requirements
 Build Cluster
 --------------
 
-+ node01
-  + jenkins: master
-  + eth0: nat
-  + eth1: 192.168.50.11
-+ node02
-  + jenkins: slave
-  + eth0: nat
-  + eth1: 192.168.50.12
+| name   | eth0 | eth1          | jenkins |
+|:-------|:-----|:--------------|:--------|
+| node01 | nat  | 192.168.50.11 | master  |
+| node02 | nat  | 192.168.50.12 | slave   |
 
 Getting Started
 ---------------
