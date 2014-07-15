@@ -40,7 +40,7 @@ Links
 
 + Vagrantcloud: [wakameci/kemukins-6.5-x86_64](https://vagrantcloud.com/wakameci/kemukins-6.5-x86_64)
 + Vagrant Box: [wakameci/kemukins-box-rhel6](https://github.com/wakameci/kemukins-box-rhel6)
-+ Jenkins Configuration: [kemukins-jenkins-demo](https://github.com/wakameci/kemukins-jenkins-demo)
++ Jenkins Configuration: [wakameci/kemukins-jenkins-demo](https://github.com/wakameci/kemukins-jenkins-demo)
 
 License
 -------
