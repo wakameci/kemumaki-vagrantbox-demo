@@ -1,4 +1,4 @@
-Kemukins: Vagrantbox Demo
+Kemumaki: Vagrantbox Demo
 =========================
 
 Wakmae CI demo environment with Vagrant.
