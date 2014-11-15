@@ -40,7 +40,7 @@ Build Cluster
 Links
 -----
 
-+ Vagrantcloud: [wakameci/kemukins-6.5-x86_64](https://vagrantcloud.com/wakameci/kemukins-6.5-x86_64)
++ Vagrantcloud: [wakameci/kemumaki-6.6-x86_64](https://vagrantcloud.com/wakameci/kemumaki-6.6-x86_64)
 + Vagrant Box: [wakameci/kemumaki-box-rhel6](https://github.com/wakameci/kemumaki-box-rhel6)
 + Jenkins Configuration: [wakameci/kemumaki-jenkins-demo](https://github.com/wakameci/kemumaki-jenkins-demo)
 

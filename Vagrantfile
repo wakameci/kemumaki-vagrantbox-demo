@@ -5,7 +5,7 @@
 VAGRANTFILE_API_VERSION = "2"
 
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
-  config.vm.box = "wakameci/kemukins-6.5-x86_64"
+  config.vm.box = "wakameci/kemumaki-6.6-x86_64"
 
   config.vm.provider :virtualbox do |v, override|
    # Disable the base shared folder, guest additions are unavailable.
