@@ -15,7 +15,7 @@ su - jenkins -c "$SHELL -ex" <<'EOS'
   cp -f /var/lib/jenkins/.ssh/authorized_keys /var/lib/jenkins/.ssh/authorized_keys.saved
 
   if ! [[ -d /var/tmp/kemumaki-jenkins-demo ]]; then
-    git clone https://github.com/wakameci/kemumaki-jenkins-demo.git /var/tmp/kemukins-jenkins-demo
+    git clone https://github.com/wakameci/kemumaki-jenkins-demo.git /var/tmp/kemumaki-jenkins-demo
   fi
 
   cd /var/tmp/kemumaki-jenkins-demo
