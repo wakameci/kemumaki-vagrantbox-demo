@@ -22,8 +22,8 @@ Getting Started
 ---------------
 
 ```
-$ git clone https://github.com/wakameci/kemukins-vagrantbox-demo.git
-$ cd kemukins-vagrantbox-demo
+$ git clone https://github.com/wakameci/kemumaki-vagrantbox-demo.git
+$ cd kemumaki-vagrantbox-demo
 $ make build
 ```
 
@@ -41,8 +41,8 @@ Links
 -----
 
 + Vagrantcloud: [wakameci/kemukins-6.5-x86_64](https://vagrantcloud.com/wakameci/kemukins-6.5-x86_64)
-+ Vagrant Box: [wakameci/kemukins-box-rhel6](https://github.com/wakameci/kemukins-box-rhel6)
-+ Jenkins Configuration: [wakameci/kemukins-jenkins-demo](https://github.com/wakameci/kemukins-jenkins-demo)
++ Vagrant Box: [wakameci/kemumaki-box-rhel6](https://github.com/wakameci/kemumaki-box-rhel6)
++ Jenkins Configuration: [wakameci/kemumaki-jenkins-demo](https://github.com/wakameci/kemumaki-jenkins-demo)
 
 License
 -------
