@@ -3,7 +3,7 @@ Kemumaki: Vagrantbox Demo
 
 Wakmae CI demo environment with Vagrant.
 
-![sample jenkins](https://cloud.githubusercontent.com/assets/76867/4161995/b56664e4-34d5-11e4-9f25-4eb2120ebabe.png)
+![sample jenkins](https://cloud.githubusercontent.com/assets/76867/5057743/7d8c16b8-6d15-11e4-81c4-624e503507bd.png)
 
 Features
 --------
