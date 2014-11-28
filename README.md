@@ -37,6 +37,8 @@ Build Cluster
 | node01 | nat  | 192.168.50.11 | master  |
 | node02 | nat  | 192.168.50.12 | slave   |
 
+![kemumaki-vagrantbox-demo](https://cloud.githubusercontent.com/assets/76867/5224200/1766d4de-7712-11e4-8432-324f1f2aaf67.png)
+
 Links
 -----
 
