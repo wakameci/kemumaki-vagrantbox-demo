@@ -1,0 +1,21 @@
+{
+  inet [shape = cloud];
+  inet -- host;
+
+  network nat {
+    address = "10.0.2.0/24";
+    color = "#cccccc";
+
+    host   [address = ".2"];
+    master [address = "(dhcp)"];
+    slave  [address = "(dhcp)"];
+  }
+
+  network intnet {
+    address = "192.168.50.0/24";
+    color = "#cccccc";
+
+    master [address = ".11" ];
+    slave  [address = ".12"];
+  }
+}
