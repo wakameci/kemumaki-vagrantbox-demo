@@ -24,7 +24,7 @@ Getting Started
 ```
 $ git clone https://github.com/wakameci/kemumaki-vagrantbox-demo.git
 $ cd kemumaki-vagrantbox-demo
-$ make build
+$ make up
 ```
 
 Access to [http://localhost:8080/](http://localhost:8080/)
